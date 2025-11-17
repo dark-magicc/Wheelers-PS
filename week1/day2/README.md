@@ -1,1 +1,0 @@
-Day2: Revision on C++ (Functions -Arrays (1D) -  Array (2D))

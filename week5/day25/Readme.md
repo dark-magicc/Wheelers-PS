@@ -1,1 +1,0 @@
-Quiz 4 Solution: navigate to quizzes/quiz4

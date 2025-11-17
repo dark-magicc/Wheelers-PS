@@ -1,1 +1,0 @@
- Revision:Lo5-String (got to contest folder)
